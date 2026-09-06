@@ -1,0 +1,11 @@
+id,input,web_doc_scanner,adobe_scan,camscanner,iscanner
+1,01-datasheet-angle-a.jpg,available,available,available,available
+2,02-datasheet-angle-b.jpg,available,available,available,available
+3,03-datasheet-close.jpg,available,available,available,available
+4,04-datasheet-oblique.jpg,available,available,available,available
+5,05-letter-angle.jpg,available,available,available,available
+6,06-letter-shadow.jpg,available,available,available,available
+7,07-letter-close.jpg,available,available,available,available
+8,08-magazine-angle.jpg,available,available,available,available
+9,09-magazine-glare.jpg,available,available,available,available
+10,10-magazine-oblique.jpg,available,available,available,pending
