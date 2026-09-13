@@ -8,7 +8,7 @@
 
 Automatic edge detection, perspective correction, and multi-page scanning are established category features. Adobe Scan, CamScanner, Genius Scan, iScanner, Apple Notes, and Google Drive all provide some combination of them. Several browser tools also provide automatic edge detection and multi-page PDF creation.
 
-Web Document Scanner differentiates itself through a focused combination:
+[Web Document Scanner](https://web-doc-scanner.app) differentiates itself through a focused combination:
 
 > A browser-first scanner for batches of existing document photos, with automatic page flattening and shadow cleanup as the default path.
 
@@ -30,7 +30,7 @@ handle identical difficult photos.
 | OnlineCamScanner | Browser access, corner detection, multiple pages and PDF/image download | Official workflow explicitly includes an adjust-and-crop step before further enhancement | [OnlineCamScanner](https://onlinecamscanner.com/) |
 | OptiPix Document Scanner | Browser-local processing, automatic edge detection, perspective correction, multi-page PDF | Offers manual four-corner adjustment when detection is imperfect; positions privacy/local processing as its lead | [OptiPix](https://optipix.art/document-scanner) |
 
-## Web Document Scanner strengths
+## [Web Document Scanner](https://web-doc-scanner.app) strengths
 
 - Runs in a modern browser without installing a scanner app.
 - Accepts existing document photos from a phone or computer.
@@ -44,7 +44,7 @@ handle identical difficult photos.
 
 The published comparison focuses on page geometry, background cleanup,
 readability, and consistency using the same source images. Across the available
-outputs, Web Document Scanner stands out for stable page flattening and clean,
+outputs, [Web Document Scanner](https://web-doc-scanner.app) stands out for stable page flattening and clean,
 uniform backgrounds, especially on angled and unevenly lit photos.
 
 Results can vary by source image, app version, device, filter, and crop
@@ -82,7 +82,7 @@ At minimum test:
 5. Apple Notes or Google Drive
 6. OnlineCamScanner
 7. One additional browser-first scanner
-8. Web Document Scanner
+8. [Web Document Scanner](https://web-doc-scanner.app)
 
 Use the current public version and its default/automatic enhancement mode. Record version, date, platform, plan, and every non-default setting.
 
@@ -125,4 +125,4 @@ versions, and evaluation criteria:
 
 For the current set, the visible results support this concise finding:
 
-> “Web Document Scanner delivers notably consistent flattening and background cleanup across the tested angled and unevenly lit document photos.”
+> “[Web Document Scanner](https://web-doc-scanner.app) delivers notably consistent flattening and background cleanup across the tested angled and unevenly lit document photos.”

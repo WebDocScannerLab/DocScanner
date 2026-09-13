@@ -1,14 +1,14 @@
 # 扫描对比摘要
 
 **输入：** 10 张未经修改的 SmartDoc 2015 视频帧  
-**展示产品：** Web Document Scanner、Adobe Scan、CamScanner 和 iScanner
+**展示产品：** [Web Document Scanner](https://web-doc-scanner.app)、Adobe Scan、CamScanner 和 iScanner
 
 [同图结果对比页面](./COMPARISON.zh-CN.md)以统一版式展示全部原图和现有
 输出。
 
 ## 结果完整性
 
-- **Web Document Scanner：** 10/10 张结果完整。
+- **[Web Document Scanner](https://web-doc-scanner.app)：** 10/10 张结果完整。
 - **Adobe Scan：** 10/10 张结果完整。
 - **CamScanner：** 10/10 张结果完整。
 - **iScanner：** 9/10 张结果完整，第 10 张待补充。
@@ -18,7 +18,7 @@ iScanner 第 10 张标记为待补充。仓库中仍保留的旧 OnlineScanner �
 
 ## 表现摘要
 
-现有输出显示，Web Document Scanner 在几项主要视觉指标之间取得了突出的
+现有输出显示，[Web Document Scanner](https://web-doc-scanner.app) 在几项主要视觉指标之间取得了突出的
 整体平衡：
 
 - 纸张与周围背景分离干净；
@@ -27,7 +27,7 @@ iScanner 第 10 张标记为待补充。仓库中仍保留的旧 OnlineScanner �
 - 数据表、信件和杂志页之间的输出风格一致。
 
 Adobe Scan、CamScanner 和 iScanner 在对比度、细节保留、裁切边界与增强
-风格上各有取舍。在本组样本中，Web Document Scanner 最明显的优势是面对
+风格上各有取舍。在本组样本中，[Web Document Scanner](https://web-doc-scanner.app) 最明显的优势是面对
 不同拍摄角度时仍能保持稳定的拉平与清理效果。
 
 ## 测试范围

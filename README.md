@@ -17,11 +17,11 @@
 
 > This is the public product repository for a hosted commercial service. It contains product documentation, not source code or a self-hosted package.
 
-## Why use Web Document Scanner?
+## Why use [Web Document Scanner](https://web-doc-scanner.app)?
 
 ### Fully automatic from upload to scan
 
-Most scanner workflows are built around a live camera and an editing screen. Web Document Scanner is built for photos you already have in your camera roll, email, AirDrop, or chat history. Add the files and let the processing pipeline handle:
+Most scanner workflows are built around a live camera and an editing screen. [Web Document Scanner](https://web-doc-scanner.app) is built for photos you already have in your camera roll, email, AirDrop, or chat history. Add the files and let the processing pipeline handle:
 
 - page detection and background removal;
 - perspective correction for tilted photos;
@@ -40,7 +40,7 @@ This workflow is useful when documents have already arrived through WeChat, emai
 
 ### Built for difficult phone photos
 
-Web Document Scanner is designed to do more than place an original JPG inside a PDF. Its processing targets the defects that make phone photos look unprofessional:
+[Web Document Scanner](https://web-doc-scanner.app) is designed to do more than place an original JPG inside a PDF. Its processing targets the defects that make phone photos look unprofessional:
 
 - keystone distortion from shooting at an angle;
 - dark desks and visible background;
@@ -51,7 +51,7 @@ Web Document Scanner is designed to do more than place an original JPG inside a 
 The quality goal is a readable, submit-ready page that looks closer to flatbed output than to a cropped camera photo.
 
 In a [same-image comparison](./benchmark/COMPARISON.md) with Adobe Scan,
-CamScanner, and iScanner, Web Document Scanner produced consistently strong
+CamScanner, and iScanner, [Web Document Scanner](https://web-doc-scanner.app) produced consistently strong
 page flattening, background cleanup, and batch-to-batch visual consistency
 across the available test outputs. The original photos and every result are
 published for direct inspection.
@@ -60,12 +60,12 @@ published for direct inspection.
 
 | Product | Runs without app install | Imports existing photos | Automatic correction | Batch / multi-page | Typical workflow |
 | --- | --- | --- | --- | --- | --- |
-| **Web Document Scanner** | Yes, browser | Yes | Page detection, flattening, perspective and shadow cleanup | Yes, up to 15 images on Pro | Upload batch → process automatically → export |
+| **[Web Document Scanner](https://web-doc-scanner.app)** | Yes, browser | Yes | Page detection, flattening, perspective and shadow cleanup | Yes, up to 15 images on Pro | Upload batch → process automatically → export |
 | Adobe Scan | No, mobile app | Yes | Auto crop, cleaning and AI straightening | Yes, High-Speed Scan | Capture/import → review/edit → save to Adobe cloud |
 | CamScanner | No, mobile app | Yes | Auto crop, perspective correction and enhancement | Yes | Capture/import → review crop/filter → export |
 | iScanner | No, mobile app | Yes | Auto crop, distortion correction and cleanup | Yes | Capture/import → refine/edit → export |
 
-The market already has capable automatic scanners. Web Document Scanner's positioning is the combination of:
+The market already has capable automatic scanners. [Web Document Scanner](https://web-doc-scanner.app)'s positioning is the combination of:
 
 1. **Browser access** on phone or computer.
 2. **Batch import of photos already taken**, not only live camera capture.
@@ -95,7 +95,7 @@ Scan quality should be measured, not asserted with an absolute slogan. For this 
 - fewer total actions before a usable export.
 
 The [published same-image comparison](./benchmark/COMPARISON.md) highlights
-Web Document Scanner's consistent page geometry and clean backgrounds on
+[Web Document Scanner](https://web-doc-scanner.app)'s consistent page geometry and clean backgrounds on
 angled, unevenly lit document photos:
 
 > **Cleaner, flatter document scans from difficult phone photos—processed automatically in batches, directly in your browser.**
@@ -145,11 +145,11 @@ Yes. Pro supports up to 15 images in one scan job. Add the photos, order them, a
 
 ### Is this the same as JPG to PDF?
 
-No. A basic converter wraps the original photo in a PDF. Web Document Scanner first detects and flattens the page and cleans the image.
+No. A basic converter wraps the original photo in a PDF. [Web Document Scanner](https://web-doc-scanner.app) first detects and flattens the page and cleans the image.
 
 ### Is the output always better than every scanner app?
 
-Results vary with document shape, lighting, camera quality, blur, and occlusion. In the published test set, Web Document Scanner stands out for automatic page flattening, background cleanup, and consistent output across difficult angled photos. Review the [same-image results](./benchmark/COMPARISON.md) directly.
+Results vary with document shape, lighting, camera quality, blur, and occlusion. In the published test set, [Web Document Scanner](https://web-doc-scanner.app) stands out for automatic page flattening, background cleanup, and consistent output across difficult angled photos. Review the [same-image results](./benchmark/COMPARISON.md) directly.
 
 ### Is an API available?
 
@@ -163,4 +163,4 @@ Yes. [Contact us](https://web-doc-scanner.app/contact) for Enterprise API volume
 
 ---
 
-**Web Document Scanner** · [web-doc-scanner.app](https://web-doc-scanner.app) 
+**[Web Document Scanner](https://web-doc-scanner.app)** · [web-doc-scanner.app](https://web-doc-scanner.app) 

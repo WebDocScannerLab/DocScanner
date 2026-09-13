@@ -2,7 +2,7 @@
 
 **[中文](./README.zh-CN.md)** · **[English](./README.md)**
 
-[Web Document Scanner](https://web-doc-scanner.app/zh/) 是一款**全自动在线文档扫描**工具，可以把手机里已有的文档照片批量变成清晰、拉平的扫描件 PDF。上传一张或多张照片后，系统会自动找页、校正透视、拉平页面、清理阴影并准备导出——不用安装 App，也不用逐页拖动四个裁切点。
+[Web Document Scanner](https://web-doc-scanner.app) 是一款**全自动在线文档扫描**工具，可以把手机里已有的文档照片批量变成清晰、拉平的扫描件 PDF。上传一张或多张照片后，系统会自动找页、校正透视、拉平页面、清理阴影并准备导出——不用安装 App，也不用逐页拖动四个裁切点。
 
 <p align="center">
   <a href="https://web-doc-scanner.app/zh/"><img src="https://img.shields.io/badge/立即扫描-打开网页扫描器-2563eb?style=for-the-badge" alt="打开 Web Document Scanner 中文扫描页"></a>
@@ -17,11 +17,11 @@
 
 > 这是托管商业产品的公开项目文档，只包含产品介绍，不包含源代码或可私有部署的软件包。
 
-## 为什么选择 Web Document Scanner？
+## 为什么选择 [Web Document Scanner](https://web-doc-scanner.app)？
 
 ### 从上传到扫描全自动
 
-很多扫描工具围绕实时相机和编辑页面设计。Web Document Scanner 更适合处理已经存在于相册、微信、邮件、隔空投送或共享目录里的照片。添加文件后，处理流程会自动完成：
+很多扫描工具围绕实时相机和编辑页面设计。[Web Document Scanner](https://web-doc-scanner.app) 更适合处理已经存在于相册、微信、邮件、隔空投送或共享目录里的照片。添加文件后，处理流程会自动完成：
 
 - 找到纸张并移除背景；
 - 校正斜拍造成的透视变形；
@@ -40,7 +40,7 @@
 
 ### 专门处理难扫的手机照片
 
-Web Document Scanner 不只是把 JPG 放进 PDF，而是针对手机拍纸张时最影响观感的问题：
+[Web Document Scanner](https://web-doc-scanner.app) 不只是把 JPG 放进 PDF，而是针对手机拍纸张时最影响观感的问题：
 
 - 斜拍造成的梯形和透视变形；
 - 深色桌面和多余背景；
@@ -50,19 +50,19 @@ Web Document Scanner 不只是把 JPG 放进 PDF，而是针对手机拍纸张�
 
 质量目标是得到更接近平板扫描仪输出、文字清楚、可以直接提交的页面，而不是一张加了滤镜的裁切照片。
 
-在与 Adobe Scan、CamScanner 和 iScanner 的[同图对比](./benchmark/COMPARISON.zh-CN.md)中，Web Document Scanner 在现有测试结果里展现出稳定的页面拉平、背景清理和批次一致性。所有原图与输出图均已公开，可直接查看对比。
+在与 Adobe Scan、CamScanner 和 iScanner 的[同图对比](./benchmark/COMPARISON.zh-CN.md)中，[Web Document Scanner](https://web-doc-scanner.app) 在现有测试结果里展现出稳定的页面拉平、背景清理和批次一致性。所有原图与输出图均已公开，可直接查看对比。
 
 ## 和主流扫描工具有什么不同？
 
 
 | 产品 | 无需安装 App | 导入已有照片 | 自动校正 | 批量 / 多页 | 典型流程 |
 | --- | --- | --- | --- | --- | --- |
-| **Web Document Scanner** | 是，浏览器运行 | 是 | 找页、拉平、透视和阴影清理 | 是，Pro 单次最多 15 张 | 批量上传 → 自动处理 → 导出 |
+| **[Web Document Scanner](https://web-doc-scanner.app)** | 是，浏览器运行 | 是 | 找页、拉平、透视和阴影清理 | 是，Pro 单次最多 15 张 | 批量上传 → 自动处理 → 导出 |
 | Adobe Scan | 否，移动 App | 是 | 自动裁边、清理和 AI 拉直 | 是，High-Speed Scan | 拍摄/导入 → 检查编辑 → 保存到 Adobe 云 |
 | CamScanner | 否，移动 App | 是 | 自动裁边、透视校正和增强 | 是 | 拍摄/导入 → 检查裁切/滤镜 → 导出 |
 | iScanner | 否，移动 App | 是 | 自动裁切、畸变校正和清理 | 是 | 拍摄/导入 → 修饰编辑 → 导出 |
 
-扫描市场已经有很多成熟产品。Web Document Scanner 的定位是以下能力的组合：
+扫描市场已经有很多成熟产品。[Web Document Scanner](https://web-doc-scanner.app) 的定位是以下能力的组合：
 
 1. **手机和电脑都能直接打开浏览器使用。**
 2. **批量导入已经拍好的照片**，不局限于现场逐页拍摄。
@@ -92,7 +92,7 @@ Web Document Scanner 不只是把 JPG 放进 PDF，而是针对手机拍纸张�
 - 从导入到可用文件所需操作更少。
 
 [已经公开的同图对比](./benchmark/COMPARISON.zh-CN.md)显示，在大角度斜拍和
-光照不均的文档照片中，Web Document Scanner 的页面几何、背景清洁度和输出
+光照不均的文档照片中，[Web Document Scanner](https://web-doc-scanner.app) 的页面几何、背景清洁度和输出
 一致性表现突出：
 
 > **把难处理的手机文档照片变成更干净、更平整的扫描件：浏览器中批量上传，全自动处理。**
@@ -142,11 +142,11 @@ Web Document Scanner 不只是把 JPG 放进 PDF，而是针对手机拍纸张�
 
 ### 和图片转 PDF 一样吗？
 
-不一样。普通转换器只是把原照片放进 PDF。Web Document Scanner 会先检测并拉平页面，再清理图像。
+不一样。普通转换器只是把原照片放进 PDF。[Web Document Scanner](https://web-doc-scanner.app) 会先检测并拉平页面，再清理图像。
 
 ### 效果一定比所有扫描 App 好吗？
 
-实际结果会受到纸张形状、光线、相机质量、模糊和遮挡影响。在已公开的测试集中，Web Document Scanner 在自动拉平、背景清理和复杂斜拍照片的一致性方面表现突出。可以直接查看[同图对比结果](./benchmark/COMPARISON.zh-CN.md)。
+实际结果会受到纸张形状、光线、相机质量、模糊和遮挡影响。在已公开的测试集中，[Web Document Scanner](https://web-doc-scanner.app) 在自动拉平、背景清理和复杂斜拍照片的一致性方面表现突出。可以直接查看[同图对比结果](./benchmark/COMPARISON.zh-CN.md)。
 
 ### 提供 API 吗？
 
@@ -160,4 +160,4 @@ Web Document Scanner 不只是把 JPG 放进 PDF，而是针对手机拍纸张�
 
 ---
 
-**Web Document Scanner** · [web-doc-scanner.app](https://web-doc-scanner.app) 
+**[Web Document Scanner](https://web-doc-scanner.app)** · [web-doc-scanner.app](https://web-doc-scanner.app) 

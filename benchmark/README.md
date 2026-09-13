@@ -1,6 +1,6 @@
 # Document Scanner Pilot Benchmark
 
-This directory contains a 10-image visual comparison of Web Document Scanner,
+This directory contains a 10-image visual comparison of [Web Document Scanner](https://web-doc-scanner.app),
 Adobe Scan, CamScanner, and iScanner. It focuses on visible differences in page
 geometry, background cleanup, readability, and output consistency.
 

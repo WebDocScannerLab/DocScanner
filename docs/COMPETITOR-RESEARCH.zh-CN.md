@@ -8,7 +8,7 @@
 
 自动找边、透视校正和多页扫描已经是行业常见能力。Adobe Scan、CamScanner、Genius Scan、iScanner、Apple 备忘录和 Google Drive 都具备其中多项能力，一些网页扫描工具也支持自动找边和多页 PDF。
 
-Web Document Scanner 的差异化来自一组聚焦的能力组合：
+[Web Document Scanner](https://web-doc-scanner.app) 的差异化来自一组聚焦的能力组合：
 
 > 面向已有文档照片的浏览器扫描器：批量导入，并默认自动完成找页、拉平和去阴影。
 
@@ -29,7 +29,7 @@ Web Document Scanner 的差异化来自一组聚焦的能力组合：
 | OnlineCamScanner | 浏览器运行、自动检测四角、多页和 PDF/图片下载 | 官方流程明确包含“调整并裁切”，之后再增强和下载 | [OnlineCamScanner](https://onlinecamscanner.com/) |
 | OptiPix Document Scanner | 浏览器本地处理、自动找边、透视校正、多页 PDF | 自动检测不准时仍需手拖四角；核心定位是本地隐私处理 | [OptiPix](https://optipix.art/document-scanner) |
 
-## Web Document Scanner 的产品优势
+## [Web Document Scanner](https://web-doc-scanner.app) 的产品优势
 
 - 现代浏览器直接使用，不安装扫描 App。
 - 可从手机或电脑导入已经拍好的文档照片。
@@ -42,7 +42,7 @@ Web Document Scanner 的差异化来自一组聚焦的能力组合：
 ## 扫描质量对比
 
 已公开的对比使用同一组原图，重点观察页面几何、背景清理、文字可读性和结果
-一致性。综合现有输出，Web Document Scanner 在稳定拉平页面和生成干净、
+一致性。综合现有输出，[Web Document Scanner](https://web-doc-scanner.app) 在稳定拉平页面和生成干净、
 均匀背景方面表现突出，尤其适合大角度斜拍和光照不均的照片。
 
 实际效果可能随原图、App 版本、设备、滤镜和裁切调整而变化。将每张原图与
@@ -78,7 +78,7 @@ Web Document Scanner 的差异化来自一组聚焦的能力组合：
 5. Apple 备忘录或 Google Drive
 6. OnlineCamScanner
 7. 另一个以浏览器为主的扫描器
-8. Web Document Scanner
+8. [Web Document Scanner](https://web-doc-scanner.app)
 
 使用当时公开版本和默认/自动增强模式。记录版本、日期、平台、套餐和所有非默认设置。
 
@@ -120,4 +120,4 @@ Web Document Scanner 的差异化来自一组聚焦的能力组合：
 
 针对当前测试集，可以将结果概括为：
 
-> “在本次大角度斜拍和光照不均的文档照片测试中，Web Document Scanner 展现出稳定的页面拉平与背景清理效果。”
+> “在本次大角度斜拍和光照不均的文档照片测试中，[Web Document Scanner](https://web-doc-scanner.app) 展现出稳定的页面拉平与背景清理效果。”
